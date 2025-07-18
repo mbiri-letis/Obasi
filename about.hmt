@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About us</title>
+</head>
+<body>
+    <header>
+        <h1>school of enginering</h1>
+    </header>
+    <nav>
+        <ul>
+        <l1>hnd</l1>
+        <l1>b-tech</l1>
+        <l1>top up b-tech</l1>
+        </ul>
+    </nav>
+    <section>
+        <article>
+            <p>money</p>
+            <p>money</p>
+        </article>
+        <article>
+            <section>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum expedita ipsa non illum voluptatem eveniet hic, incidunt aperiam accusamus aut mollitia delectus eligendi itaque iure et fugit quidem nemo quisquam autem, officia, cum neque? Ut perspiciatis modi error molestiae adipisci? Deleniti, esse autem. Distinctio dolore, laborum totam reprehenderit dolores labore.</p>
+                <hr>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita itaque unde beatae quisquam debitis quasi, adipisci perspiciatis sunt maiores veniam corrupti dolorum doloremque iusto vel explicabo dolores aliquam doloribus eaque, necessitatibus omnis totam fugiat ullam vitae. Voluptatum, illum! Deleniti porro totam iure voluptatibus eum est velit exercitationem natus architecto eos.</p>
+            </section> 
+        </article>
+    </section>
+    <section>
+        <b>>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, cupiditate. Suscipit ex quam commodi possimus consequuntur illum dolore iure accusamus aperiam nesciunt rem delectus totam odio provident vero sunt iste maiores, expedita, obcaecati similique temporibus non quis sed. Soluta commodi sapiente natus sit odit officiis consequatur delectus alias laborum perferendis?</b>
+        <p>>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque molestias a saepe quod sequi, cupiditate placeat quos odit consequatur nulla eveniet at eligendi rem explicabo repellendus delectus. Odit, debitis quod itaque sed corrupti repellat explicabo, harum praesentium ullam architecto ipsa, et natus. Delectus dolorum distinctio modi optio excepturi, obcaecati rerum.</p>
+    </section>
+    <footer>
+        <p>nice job</p>
+        <p>nice job</p>
+        <p>success</p>
+        <br>wish you well</br>
+    </footer>
+</body>
+</html>
